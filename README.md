@@ -1,2 +1,2 @@
 # AI
-in this repo
+in this repos
